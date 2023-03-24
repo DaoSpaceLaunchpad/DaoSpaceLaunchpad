@@ -69,6 +69,6 @@ DaoSpace's roadmap for the next few quarters is as follows:
 
 ### Tokenomics
 
-![DaoSpace Tokenomics](https://972108722-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fo0tkn8SkJTnU3sRAuReJ%2Fuploads%2FZn2tRiv9nCM271XPlLvZ%2FTokenomics.png?alt=media&token=fc95fd55-b6e3-4ff5-9c4f-4d230e4bc629)
+![DaoSpace Tokenomics](https://972108722-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fo0tkn8SkJTnU3sRAuReJ%2Fuploads%2F7eoIyzy2KU5p5cUZdupk%2FIMG_20230323_173227_313.jpg?alt=media&token=f7b15437-d890-4a30-b6eb-a0bc536d70a7)
 
 ![DaoSpace Token Distribution](https://972108722-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fo0tkn8SkJTnU3sRAuReJ%2Fuploads%2FzuGZ0I6JUzvVyAbcrRCC%2FIMG-20230131-WA0013_edit_160087630800572.jpeg?alt=media&token=b4088c5d-db89-433d-be0d-ff16ff5eb14e)
